@@ -1,1 +1,1 @@
-this file is in cicd rhel to git.
+, now i was editing the this ci.txt file it will reflect in rhel .
